@@ -4,8 +4,6 @@
 
 ---
 
-![GhostChain Banner]
-
 ## 🚀 Overview  
 **Problem**  
 Blockchain forensics tools are powerful but *dry*, *technical*, and intimidating to everyday users. Meanwhile, illicit activities like mixer transactions and darknet markets lurk in plain sight.  
